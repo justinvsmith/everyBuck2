@@ -1,11 +1,12 @@
-div {
-    color: white;
-}
-
 .budgets {
     display: flex;
     flex-direction: column;
     flex: 0.65;
-    background-color: green;
+    background-color: #F3F6F7;
     height: 100vh;
+    color: #40484D;
+}
+
+#budgetContainer {
+    padding: 25px;
 }

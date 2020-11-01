@@ -7,7 +7,9 @@ export default function Budgets() {
     return(
         <div className="budgets">
             <Header />
-            This is where the budgets section would go!
+            <div id="budgetContainer">
+                <p>This is placeholder text</p>
+            </div>
         </div>
     )
 }

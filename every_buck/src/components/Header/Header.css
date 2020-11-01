@@ -1,6 +1,22 @@
 .header {
     display: flex;
     flex-direction: row;
-    background-color: blue;
-    height: 12vh;
+    background-color: #F3F6F7;
+    height: 11vh;
+    font-size: 2em;
+    padding-left: 25px;
+}
+
+#titleContainer {
+    border-bottom: 1px solid #ADB6BA;
+    width: 95.5%;
+}
+
+.title {
+    color: #5E6A6F;
+}
+
+.title span {
+    color: #40484D;
+    font-weight: 800;
 }
