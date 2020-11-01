@@ -1,0 +1,11 @@
+div {
+    color: white;
+}
+
+.budgets {
+    display: flex;
+    flex-direction: column;
+    flex: 0.65;
+    background-color: green;
+    height: 100vh;
+}
