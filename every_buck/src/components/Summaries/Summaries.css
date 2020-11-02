@@ -3,4 +3,5 @@
     flex-direction: column;
     flex: 0.35;
     background-color: #F3F6F7;
+    align-items: center;
 }
